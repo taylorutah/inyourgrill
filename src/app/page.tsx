@@ -12,6 +12,11 @@ const sites = [
     description: "Industrial Pumps & Equipment",
   },
   {
+    name: "The Lifthouse",
+    url: "https://thelifthouse.com",
+    description: "Fitness & Wellness",
+  },
+  {
     name: "Pixels Foto",
     url: "https://pixels-foto.vercel.app",
     description: "Photography Portfolio",
